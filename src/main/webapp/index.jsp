@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>¡Hola Jenkins, despliegue automatico exitoso!:)</h2>
+<h2> ¡Despliegue instantáneo con Webhooks de GitHub! :)</h2>
 </body>
 </html>
